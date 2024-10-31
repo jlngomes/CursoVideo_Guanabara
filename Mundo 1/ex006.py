@@ -11,7 +11,7 @@ else:
           f'\nO triplo de {num} é igual a {num * 3}'
           f'\nRaiz quadrada de {num} é igual {num**(1/2)}')
 
-#--- Alternativa ---#
+#--- Alternativa 1 ---#
 
 import math
 
