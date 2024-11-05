@@ -12,4 +12,4 @@ lista = [a1, a2, a3, a4]
 
 shuffle(lista)
 
-print(f'\nO aluno escolhido foi {lista}')
+print(f'\nA lista na nova ordem é {lista}')
